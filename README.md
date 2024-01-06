@@ -1,4 +1,4 @@
-# Express + Vite Starter
+# Express + Vite + Spectrum Starter
 
 This is a starting point for creating a react app via vite and express
 
