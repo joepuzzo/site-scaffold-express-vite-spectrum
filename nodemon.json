@@ -1,0 +1,6 @@
+{
+  "watch": ["src/server"],
+  "ext": "js",
+  "ignore": ["src/server/**/*.spec.ts"],
+  "exec": "NODE_OPTIONS=--experimental-repl-await node ./src/server/index.js"
+}
